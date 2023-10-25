@@ -1,0 +1,50 @@
+header{
+    text-align: center;
+}
+nav{
+    font-size: 20px;
+    margin-left: 32%;
+}
+a{
+    text-decoration: none;
+    color: rgb(55, 0, 235);
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.225);
+
+}
+a:hover{
+    border-bottom: 2px solid rgb(255, 0, 0);
+}
+p{
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.752);
+    background-color: rgba(0, 0, 0, 0.679);
+}
+body{
+    background-image: url(./images/MMSU_facade.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    
+}
+.nav1{
+    color: black;
+}
+.cit{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.358);
+    color: darkgoldenrod;
+}
+.col h1{
+    color: rgb(224, 164, 14);
+    text-align: center;
+}
+.col{
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.752);
+    background-color: rgba(0, 0, 0, 0.679);
+}
+
+
+
